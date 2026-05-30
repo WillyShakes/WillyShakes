@@ -1,7 +1,7 @@
 # Hi, I'm Wilfried 👋
 
 **Senior Android Engineer · Public Speaker · Technical Book Reviewer**  
-📍 St-Constant, Quebec, Canada &nbsp;|&nbsp; 🌍 Originally from Africa &nbsp;|&nbsp; 🗣️ EN · FR · IT
+🌍 Originally from Africa &nbsp;|&nbsp; 🗣️ EN · FR · IT
 
 ---
 
