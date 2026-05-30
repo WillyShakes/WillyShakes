@@ -50,20 +50,15 @@ I'm building my profile as a technical reviewer for books on:
 
 ## Featured Projects
 
-> 🚧 **KMP Clean Architecture Sample** — coming soon  
-> A production-realistic Kotlin Multiplatform project using Clean Architecture, Koin, Coroutines, and Compose Multiplatform. Targeting Android and iOS.
-
-<!-- Once published, replace the above with:
-### [kmp-clean-architecture-sample](https://github.com/WillyShakes/kmp-clean-architecture-sample)
+### [rema](https://github.com/WillyShakes/bible-reader)
 A production-realistic KMP project using Clean Architecture, Koin, Coroutines, and Compose Multiplatform.
 `Kotlin` `KMP` `Compose` `Clean Architecture` `Koin`
--->
 
 ---
 
 ## Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wilfried%20Mbouenda%20Mbogne-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mbouenda)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wilfried%20Mbouenda-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mbouenda)
 [![Medium](https://img.shields.io/badge/Medium-Articles-black?style=flat&logo=medium)](https://medium.com/@be.betr.codr)
 
 📬 Reach me at: **wilfried.mbouenda@gmail.com** _(replace with your actual email)_
