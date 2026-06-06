@@ -61,7 +61,7 @@ A production-realistic KMP project using Clean Architecture, Koin, Coroutines, a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wilfried%20Mbouenda-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mbouenda)
 [![Medium](https://img.shields.io/badge/Medium-Articles-black?style=flat&logo=medium)](https://medium.com/@be.betr.codr)
 
-📬 Reach me at: **wilfried.mbouenda@gmail.com** _(replace with your actual email)_
+📬 Reach me at: **wilfried.mbouenda@gmail.com** 
 
 ---
 
