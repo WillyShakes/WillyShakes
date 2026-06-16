@@ -44,7 +44,6 @@ I'm building my profile as a technical reviewer for books on:
 **Review languages:** English (C1 certified) · French · Italian
 
 > 📄 Sample review: _coming soon_  
-> 🤝 Currently reviewing with: Manning Publications
 
 ---
 
