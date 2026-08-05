@@ -1,6 +1,6 @@
 # Hi, I'm Wilfried 👋
 
-**Senior Android Engineer · Public Speaker · Technical Book Reviewer**  
+**Senior Android Engineer · Public Speaker · Leadership**  
 🌍 Originally from Africa &nbsp;|&nbsp; 🗣️ EN · FR · IT
 
 ---
@@ -22,28 +22,9 @@ I care as much about how code is structured as whether it runs. Architecture dec
 ## Beyond engineering
 
 🏆 **First prize — Droidcon Italy Hackathon**  
-🎤 **Public speaker** at mobile conferences and GDG events (Italy & France)  
+🎤 **Public speaker** at mobile conferences and GDG events (Italy, Poland, Switzerland, Tunisia & France)  
 🎓 **Technical mentor** — taught 70+ Android developers at OpenClassrooms  
 🧑‍🏫 **Organiser & trainer** — GDG Torino (2016–2017), Google Study Jams, Google I/O Extended  
-📝 **Technical book reviewer** — specialising in Kotlin, Jetpack Compose, KMP, and Android architecture
-
----
-
-## Technical Book Reviewing
-
-I'm building my profile as a technical reviewer for books on:
-
-| Topic | Details |
-|---|---|
-| Kotlin Multiplatform | Shared architecture, expect/actual, Compose Multiplatform |
-| Jetpack Compose | UI patterns, state management, performance |
-| Android Architecture | Clean architecture, modularisation, MVVM/MVI |
-| Kotlin Language | Coroutines, Flow, advanced Kotlin patterns |
-| Mobile Design Patterns | Architecture patterns for Android and KMP |
-
-**Review languages:** English (C1 certified) · French · Italian
-
-> 📄 Sample review: _coming soon_  
 
 ---
 
@@ -64,4 +45,4 @@ A production-realistic KMP project using Clean Architecture, Koin, Coroutines, a
 
 ---
 
-<sub>Open to: technical reviewer roles · architecture consulting · speaker invitations</sub>
+<sub>Open to: technical writing · architecture consulting · speaker invitations</sub>
